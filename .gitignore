@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Debug files
+*.pdb
+
+# Static Libraries
+lib/
+
+# Build Directory
+build/
